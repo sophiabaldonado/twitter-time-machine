@@ -1,5 +1,4 @@
 .App {
-  text-align: center;
 }
 
 .App-logo {
@@ -9,8 +8,9 @@
 
 .App-header {
   background-color: rebeccapurple;
-  padding: 20px;
+  padding: 10px;
   color: white;
+	text-align: center;
 }
 
 .App-title {
@@ -18,8 +18,12 @@
 }
 
 .App-intro {
-	padding: 20px;
+	/* padding: 20px; */
   font-size: large;
+}
+
+.main {
+	padding: 20px;
 }
 
 @keyframes App-logo-spin {
